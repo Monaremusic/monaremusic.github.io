@@ -140,6 +140,8 @@
 
 		}
 
+
+
 /* BG */
 
 	#bg {
@@ -461,7 +463,14 @@ img {
 	width: 50%;
 	margin-left: auto;
     margin-right: auto;
-    opacity: 0.8;
+    opacity: 0.85;
+}
+
+iframe {
+
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
 }
 /* Type */
 
@@ -768,7 +777,7 @@ img {
    			margin-right: auto;
    			text-align:center;
    			font-size: 1.2em;
-   			opacity: 0.8;
+   			opacity: 0.85;
 
 		}
 
@@ -796,7 +805,7 @@ img {
 		transition: opacity 0.5s ease-in-out;
 		bottom: 4em;
 		color: rgba(255, 255, 255, 0.5);
-		opacity: 0.8;
+		opacity: 0.85;
 		position: absolute;
 		width: 100%;
 		text-align:center;
