@@ -340,9 +340,11 @@
 		-webkit-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
+
+		
 		color: #1cb495;
 		text-decoration: none;
+		border-bottom-color: transparent;
 	}
 
 		a:hover {
@@ -451,7 +453,6 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px rgba(255, 255, 255, 0.35);
 		margin: 2em 0;
 	}
 
@@ -525,11 +526,12 @@ iframe {
 		}
 
 	a {
-		-moz-transition: border-bottom-color 0.2s ease, color 0.2s ease;
+			-moz-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		-webkit-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
-		transition: border-bottom-color 0.2s ease, color 0.2s ease;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
+		
+		
+		
 		color: #1cb495;
 		text-decoration: none;
 	}
@@ -640,7 +642,6 @@ iframe {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px rgba(255, 255, 255, 0.35);
 		margin: 2em 0;
 	}
 
@@ -778,6 +779,8 @@ iframe {
    			text-align:center;
    			font-size: 1.2em;
    			opacity: 0.85;
+   			text-decoration: none;
+   			border-bottom-color: transparent;
 
 		}
 
