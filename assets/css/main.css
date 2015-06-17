@@ -753,7 +753,7 @@ img {
 				}
 
 				ul.icons li .icon:before {
-					font-size: 1.25em;
+					font-size: 1.4em;
 				}
 
 				ul.icons li a {
@@ -796,7 +796,7 @@ img {
 		transition: opacity 0.5s ease-in-out;
 		bottom: 4em;
 		color: rgba(255, 255, 255, 0.5);
-		opacity: 0.7;
+		opacity: 0.8;
 		position: absolute;
 		width: 100%;
 		text-align:center;
@@ -807,7 +807,7 @@ img {
 		}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 0.9em;
 			list-style: none;
 			padding: 0;
 		}
